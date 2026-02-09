@@ -1,8 +1,9 @@
-from datetime import datetime
+import datetime
 import pathlib
 import os
 
-build_time = datetime.now()
+
+build_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 commit_sha = os.getenv('CF_PAGES_COMMIT_SHA', 'Error')
 branch = os.getenv('CF_PAGES_BRANCH', 'Error')
 file_path = pathlib.Path("index.html")
