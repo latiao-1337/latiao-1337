@@ -1,5 +1,5 @@
 PROFILE
-Name: @latiao_1337
+- Name: @latiao_1337
 
 WEBSITES
 - https://latiao1337.xyz/
