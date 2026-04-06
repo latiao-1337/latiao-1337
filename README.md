@@ -6,8 +6,8 @@ WEBSITES
 - https://latiao1337.xyz/
 
 CONTACT
-- admin@latiao1337.xyz
 - admin@latiao.cn.eu.org
+- admin@latiao1337.xyz
 
 SOCIALS
 - Discord ID: latiao_owo
