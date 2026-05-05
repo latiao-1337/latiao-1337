@@ -2,11 +2,9 @@ PROFILE
 - Name: @latiao_1337
 
 WEBSITES
-- https://latiao.cn.eu.org/
-- https://latiao1337.xyz/
+- https://latiao1337.org/
 
 CONTACT
-- admin@latiao.cn.eu.org
 - admin@latiao1337.xyz
 
 SOCIALS
