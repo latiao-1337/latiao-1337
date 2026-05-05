@@ -5,7 +5,7 @@ WEBSITES
 - https://latiao1337.org/
 
 CONTACT
-- admin@latiao1337.xyz
+- admin@latiao1337.org
 
 SOCIALS
 - Discord ID: latiao_owo
